@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aaponomarev/command_line_parser/main.cpp
+parser.h
+/Users/aaponomarev/command_line_parser/parser.h
+iostream
+-
+
+/Users/aaponomarev/command_line_parser/parser.h
+vector
+-
+string
+-
+functional
+-
+optional
+-
+ostream
+-
+
